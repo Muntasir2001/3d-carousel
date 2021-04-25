@@ -1,10 +1,10 @@
-# 3d-carousel
+# livestreams-slider-evoe
 
-yarn add 3d-carousel
+yarn add livestreams-slider-evoe
 
-npm install 3d-carousel
+npm install livestreams-slider-evoe
 
-import Carousel from '3d-carousel'
+import Carousel from 'livestreams-slider-evoe'
 
 ```
 <Carousel slides={slides} />
