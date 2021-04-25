@@ -1,0 +1,31 @@
+{
+	"name": "3d-carousel",
+	"version": "1.0.0",
+	"description": "3d-carousel suitable for livestream videos",
+	"main": "App.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Muntasir2001/3d-carousel.git"
+	},
+	"keywords": [
+		"3d-carousel"
+	],
+	"author": "noob_dev",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Muntasir2001/3d-carousel/issues"
+	},
+	"homepage": "https://github.com/Muntasir2001/3d-carousel#readme",
+	"peerDependencies": {
+		"react": "^17.0.2",
+		"react-dom": "^17.0.2"
+	},
+	"dependencies": {
+		"prop-types": "^15.7.2",
+		"react-fast-compare": "^3.2.0",
+		"sass": "^1.32.11"
+	}
+}
